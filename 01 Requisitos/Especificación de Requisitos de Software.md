@@ -241,38 +241,34 @@
 ---
 
 - ## Prototipo de la página
-    <h3 align="center">Inicio</h3>
-    <img src="Assets-Requisitos/Inicio.jpg" alt="Inicio" style="display: block; margin-left: auto; margin-right: auto; width: 9cm; height: 6cm;"/>
-    
-    <h3 align="center">Login de administración</h3>
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logo de GitHub" style="display: block; margin-left: auto; margin-right: auto; width: 9cm; height: 6cm;"/>
-    
-    <h3 align="center">Panel de administración</h3>
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logo de GitHub" style="display: block; margin-left: auto; margin-right: auto; width: 9cm; height: 6cm;"/>
-    
-    <h3 align="center">Crear platillo</h3>
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logo de GitHub" style="display: block; margin-left: auto; margin-right: auto; width: 9cm; height: 6cm;"/>
-    
-    <h3 align="center">Leer platillos</h3>
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logo de GitHub" style="display: block; margin-left: auto; margin-right: auto; width: 9cm; height: 6cm;"/>
-    
-    <h3 align="center">Actualizar platillos</h3>
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logo de GitHub" style="display: block; margin-left: auto; margin-right: auto; width: 9cm; height: 6cm;"/>
-    
-    <h3 align="center">Eliminar platillos</h3>
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logo de GitHub" style="display: block; margin-left: auto; margin-right: auto; width: 9cm; height: 6cm;"/>
-    
-    <h3 align="center">Menú</h3>
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logo de GitHub" style="display: block; margin-left: auto; margin-right: auto; width: 9cm; height: 6cm;"/>
-    
-    <h3 align="center">Acerca de</h3>
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logo de GitHub" style="display: block; margin-left: auto; margin-right: auto; width: 9cm; height: 6cm;"/>
-    
-    <h3 align="center">Contáctanos</h3>
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logo de GitHub" style="display: block; margin-left: auto; margin-right: auto; width: 9cm; height: 6cm;"/>
 
+    - ### Inicio
+        <img src="Assets-Requisitos/Inicio.jpg" alt="Inicio" style="width: 9cm; height: 6cm;"/>
 
+    - ### Login de administración
+        <img src="Assets-Requisitos/Login admin.jpg" alt="Inicio" style="width: 9cm; height: 6cm;"/>
 
+    - ### Panel de administración
+        <img src="Assets-Requisitos/Panel admin.jpg" alt="Inicio" style="width: 9cm; height: 6cm;"/>
 
+    - ### Crear platillo
+        <img src="Assets-Requisitos/Crear platillo.jpg" alt="Inicio" style="width: 9cm; height: 6cm;"/>
 
+    - ### Leer platillos
+        <img src="Assets-Requisitos/Leer platillo.jpg" alt="Inicio" style="width: 9cm; height: 6cm;"/>
+
+    - ### Actualizar platillos
+        <img src="Assets-Requisitos/Actualizar platillo.jpg" alt="Inicio" style="width: 9cm; height: 6cm;"/>
+
+    - ### Eliminar platillos
+        <img src="Assets-Requisitos/Eliminar platillo.jpg" alt="Inicio" style="width: 9cm; height: 6cm;"/>
+
+    - ### Menú
+        <img src="Assets-Requisitos/Menu.jpg" alt="Inicio" style="width: 9cm; height: 6cm;"/>
+
+    - ### Acerca de
+        <img src="Assets-Requisitos/Acerca de.jpg" alt="Inicio" style="width: 9cm; height: 6cm;"/>
+
+    - ### Contáctanos
+        <img src="Assets-Requisitos/Contactanos.jpg" alt="Inicio" style="width: 9cm; height: 6cm;"/>
 
