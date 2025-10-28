@@ -242,7 +242,7 @@
 
 - ## Prototipo de la página
     <h3 align="center">Inicio</h3>
-    <img src="[01 Requisitos/Assets-Requisitos/Inicio.jpg](https://github.com/EdgarChimal-tech/Loolha-virtual-test/blob/e24e5d5b81a27547f5369dde44cdda90b010c3b7/01%20Requisitos/Assets-Requisitos/Inicio.jpg)" alt="Inicio" style="display: block; margin-left: auto; margin-right: auto; width: 9cm; height: 6cm;"/>
+    <img src="Assets-Requisitos/Inicio.jpg" alt="Inicio" style="display: block; margin-left: auto; margin-right: auto; width: 9cm; height: 6cm;"/>
     
     <h3 align="center">Login de administración</h3>
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logo de GitHub" style="display: block; margin-left: auto; margin-right: auto; width: 9cm; height: 6cm;"/>
@@ -270,6 +270,7 @@
     
     <h3 align="center">Contáctanos</h3>
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logo de GitHub" style="display: block; margin-left: auto; margin-right: auto; width: 9cm; height: 6cm;"/>
+
 
 
 
