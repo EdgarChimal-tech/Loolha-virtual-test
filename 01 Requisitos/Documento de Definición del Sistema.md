@@ -4,7 +4,8 @@
     - ### Nombre del proyecto
         ***Loolha virtual***
     - ### Objetivo
-        El objetivo del proyecto Loolha virtual, es desarrollar un sitio web que permita virtualizar el menú del restaurante Loolha sustituyendo los menús tradicionales impresos por una versión digital accesible principalmente desde dispositivos móviles. 
+        El objetivo del proyecto Loolha virtual, es desarrollar un sitio web que permita virtualizar el menú del restaurante Loolha sustituyendo los menús tradicionales impresos por una versión digital accesible principalmente desde dispositivos móviles.
+      
         Con el fin de facilitar la innovación del menú, los administradores podrán agregar, consultar, actualizar y eliminar sus platillos y bebidas mediante dispositivos de cómputo, mostrando los platillos y bebidas con una imagen, descripción y precio, además de poder destacar productos especiales mediante un diseño visual atractivo, facilitando la elección de los platillos por parte de los consumidores mediante sus dispositivos móviles.
 
     - ### Visión
@@ -68,3 +69,4 @@
         - Acceder al menú del restaurante
         - Consultar información “Acerca de” y “Contáctanos”
         - Enviar mensaje de contacto
+
