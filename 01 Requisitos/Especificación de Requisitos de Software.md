@@ -242,7 +242,7 @@
 
 - ## Prototipo de la página
     <h3 align="center">Inicio</h3>
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logo de GitHub" style="display: block; margin-left: auto; margin-right: auto; width: 9cm; height: 6cm;"/>
+    <img src="01 Requisitos/Assets-Requisitos/Inicio.jpg" alt="Inicio" style="display: block; margin-left: auto; margin-right: auto; width: 9cm; height: 6cm;"/>
     
     <h3 align="center">Login de administración</h3>
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logo de GitHub" style="display: block; margin-left: auto; margin-right: auto; width: 9cm; height: 6cm;"/>
@@ -270,6 +270,7 @@
     
     <h3 align="center">Contáctanos</h3>
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logo de GitHub" style="display: block; margin-left: auto; margin-right: auto; width: 9cm; height: 6cm;"/>
+
 
 
 
