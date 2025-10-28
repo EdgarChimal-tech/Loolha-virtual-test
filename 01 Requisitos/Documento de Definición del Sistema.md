@@ -10,6 +10,7 @@
 
     - ### Visión
         Loolha Virtual busca convertirse en una herramienta digital moderna e intuitiva que sustituya los menús físicos del restaurante Loolha, ofreciendo a los clientes una experiencia visual atractiva, rápida y accesible desde cualquier dispositivo móvil.
+      
         Su propósito es innovar la forma en que los comensales consultan la oferta gastronómica, facilitando al mismo tiempo la gestión del menú por parte de los administradores mediante una interfaz web sencilla, eficiente y actualizable en tiempo real.
 
     - ### Alcance
@@ -71,5 +72,6 @@
         - Acceder al menú del restaurante
         - Consultar información “Acerca de” y “Contáctanos”
         - Enviar mensaje de contacto
+
 
 
