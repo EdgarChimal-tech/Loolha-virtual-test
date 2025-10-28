@@ -99,9 +99,9 @@
 <table style="margin-left: auto; margin-right: auto;">
   <tr>
     <th style="width: 50px;">RF</th>
-    <th>Columna 2</th>
-    <th style="width: 100px; text-align: center;">Columna 3</th>
-    <th>Columna 4</th>
+    <th>Requisito</th>
+    <th style="width: 100px; text-align: center;">Prioridad</th>
+    <th>Justificación</th>
   </tr>
   <tr>
     <td>1</td>
@@ -271,4 +271,5 @@
 
     - ### Contáctanos
         <img src="Assets-Requisitos/Contactanos.jpg" alt="Inicio" style="width: 9cm; height: 6cm;"/>
+
 
