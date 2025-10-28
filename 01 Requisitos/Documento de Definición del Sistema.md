@@ -14,7 +14,9 @@
 
     - ### Alcance
         El proyecto Loolha Virtual está dirigido a los administradores y clientes del restaurante Loolha, con el propósito de modernizar la forma en que se presenta el menú y facilitar su gestión mediante una plataforma digital accesible desde cualquier dispositivo con conexión a internet.
+      
         Los administradores del restaurante podrán gestionar fácilmente los platillos y bebidas desde una computadora o laptop, sin depender de diseños impresos.
+      
         Los clientes y comensales del restaurante, quienes podrán visualizar el menú digital desde sus teléfonos móviles, tablets o computadoras, explorando platillos y bebidas con imágenes, descripciones y precios actualizados.
 - ## Participantes (actores)
     - ### Administradores
@@ -69,4 +71,5 @@
         - Acceder al menú del restaurante
         - Consultar información “Acerca de” y “Contáctanos”
         - Enviar mensaje de contacto
+
 
